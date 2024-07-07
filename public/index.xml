@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baika</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Baika</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>This is my home base on the internet, where I share the things I like, whether it&amp;rsquo;s about Linux, tech, politics, or my favorite game, S.T.A.L.K.E.R., a first-person-shooter survival horror video game. This website is inspired by Eric Murphy and Luke Smith&amp;rsquo;s personal websites.</description>
+    </item>
+  </channel>
+</rss>
