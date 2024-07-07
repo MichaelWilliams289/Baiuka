@@ -12,7 +12,7 @@ projectsURL = "https://example.com"
 brief_about = "<center>Welcome to Baika</center>"
 [[menu.main]]
 name = "Post"
-url = "/Users/txt.hackathon/Desktop/quickstart/content"
+url = "/posts"
 weight = 1
 
 [[menu.main]]
